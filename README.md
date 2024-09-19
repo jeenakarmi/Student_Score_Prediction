@@ -89,7 +89,7 @@ The frontend interface is powered by **Streamlit**, allowing users to input stud
 - **Interactive UI**: Simple and intuitive user interface for entering features like study time, absences, and parental support.
 - **Model Accuracy**: Uses a robust Random Forest model with high prediction accuracy, evaluated using Mean Squared Error and R-squared.
 
-## Contributors 
+## Contributors (Student Final Grade Prediction)
 - Jeena Nakarmi
 - Nimesh Shakya
 - Subekshya Kadel
